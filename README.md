@@ -1,7 +1,7 @@
 # `pdfmerge`: a simple command-line tool to merge PDF files
 
 ```bash
-$python -m pip install pypdf2
+$ python -m pip install pypdf2
 [...]
 $ python pdfmerge.py -h
 usage: pdfmerge.py [-h] [--output OUTPUT] input_files [input_files ...]
